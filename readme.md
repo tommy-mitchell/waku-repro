@@ -9,6 +9,12 @@ npm i vite-plugin-checker -D # and add to vite.config.ts
 npm run dev
 ```
 
+## To Replicate
+
+1. Clone repo
+2. Run `npm install`
+3. Run `npm run dev`
+
 ## Error Message
 
 ```
